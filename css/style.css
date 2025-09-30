@@ -9,16 +9,18 @@
 .container{
     width: 80%;
     margin: 0 auto;
+
 }
 
 /* TYPOGHAPHY */
 .body{
 font-family: sans-serif;
+background-color: rgb(228, 219, 208);
 }
 
 .bg-header
 {
-   height: 100px;
+   height: 80px;
     background-color: white;
     padding-top: 10px;
     padding-left: 20px;
@@ -33,4 +35,41 @@ font-family: sans-serif;
     vertical-align: middle; 
 }
   
+.main{
+    background-color: white;
+        border-radius: 10px;
+        padding-left: 30px;
+   }
 
+.task-section{
+    height: 40px;
+    padding-top: 0px; 
+   margin-top: 40px;
+   align-content: center;
+  
+}
+       
+.add-task{
+    display: inline-block;
+    color: white;
+    background-color:rgb(97, 97, 200);
+    width: 100px;
+    height: 30px;
+    border-radius: 5px;
+    text-align: center;
+    vertical-align: middle;
+    line-height: 30px;
+}
+.add-section{
+    display: inline-block;
+    color: rgb(141, 137, 137);
+    background-color: white;
+    width: 160px;
+    height: 30px;
+    border: 1px solid grey;
+    border-radius: 5px;
+    text-align: center;
+    vertical-align: middle;
+    line-height: 30px;
+ 
+}
