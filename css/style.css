@@ -13,5 +13,24 @@
 
 /* TYPOGHAPHY */
 .body{
-    font-family: 'Times New Roman', Times, serif;
+font-family: sans-serif;
 }
+
+.bg-header
+{
+   height: 100px;
+    background-color: white;
+    padding-top: 10px;
+    padding-left: 20px;
+}
+
+.logo-text{
+    font-size: 50px;
+    vertical-align: middle;
+}
+
+#logo{
+    vertical-align: middle; 
+}
+  
+
